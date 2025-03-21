@@ -1,0 +1,27 @@
+{
+  "sessions": [
+    {
+      "id": "800485277:800485277",
+      "data": {
+        "__scenes": {}
+      }
+    },
+    {
+      "id": "311574536:311574536",
+      "data": {
+        "__scenes": {},
+        "products": {
+          "lavash": [],
+          "sous": [],
+          "pizza": [
+            {
+              "product": "🍕 Pepperoni",
+              "quantity": 3
+            }
+          ],
+          "drink": []
+        }
+      }
+    }
+  ]
+}
