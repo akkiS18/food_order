@@ -10,7 +10,7 @@
 - 📞 Telefon raqami va vaqt bilan buyurtmalar qabul qilinadi
 - 📊 Statistika, buyurtmalar tarixi (PostgreSQL bilan)
 - 🌐 PostgreSQL orqali ma’lumotlar saqlash
-- 🛠 Menuni boshqarish imkoniyati (admin uchun)
+- 🛠 Menu ni boshqarish imkoniyati (admin uchun)
 
 ---
 
@@ -30,8 +30,8 @@
 1. **Loyihani yuklab oling:**
 
 ```bash
-git clone https://github.com/username/delivery-bot.git
-cd delivery-bot
+git clone https://github.com/akki18/food_order.git
+cd food_order
 npm install
 ```
 
