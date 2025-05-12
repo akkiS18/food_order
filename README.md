@@ -44,6 +44,6 @@ Fake buyurtma yuborib, adminga xabar ketayotganini tekshirib ko‘ring.
 
 Agar savol yoki takliflaringiz bo‘lsa, quyidagiga murojaat qiling:
 
-📧 sultonkalonov@icloud.com  
+📧 sulton.kalonov@icloud.com  
 
 📱 Telegram: @S18_2003
